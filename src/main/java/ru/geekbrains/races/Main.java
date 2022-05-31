@@ -9,6 +9,7 @@ import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
 import static ru.geekbrains.races.Main.HALF_CARS_COUNT;
 
+
 /** Проект создал в одном файле, хотя скорее всего нужно было разнести по разным.*/
 
 public class Main {
